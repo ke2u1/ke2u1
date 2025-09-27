@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi, I'm Ketul Ujain<br>A passionate Full Stack Developer and Viber Coder from India.
+🔭 Hi, I'm Ketul Ujain<br>A passionate Full Stack Developer from India.
 
 
 ## 🌐 Socials:
